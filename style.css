@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+  margin-top: 10px;
+  background-color: blue;
+  text-align: center;
+}
+
+.col {
+  display: inline-block;
+  width: 80px;
+  height: 70px;
+  text-align: center;
+  background-color: white;
+  margin-top: 2px;
+  font-size: 40px;
+  padding: 20px;
+  padding-top: 30px;
+}
+
+/* button styling */
+
+button {
+  padding: 20px;
+  font-size: 25px;
+  margin-top: 30px;
+}
